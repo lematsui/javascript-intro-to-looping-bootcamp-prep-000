@@ -27,5 +27,5 @@ do {
 while (array.length > 0 && incrementVariable())
 }
 return array;
-}
+
     
